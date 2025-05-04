@@ -28,3 +28,5 @@ bday,BDY,,,weekday
 id,STR:5,,,device ID
 version,PIN,,,version
 skip,IGN:1,,,
+energye,EXP,,Wh,
+percentv,EXP,,%
